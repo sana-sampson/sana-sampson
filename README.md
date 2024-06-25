@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sana-sampson
 - 👀 I’m interested in coding AI based solutions
-- 🌱 I’m currently learning GenAI
-- 💞️ I’m looking to collaborate on projects
+- 💻 I’m currently learning GenAI
+- 📈 I’m looking to collaborate on projects
 - 📫 How to reach me - sana.sampson48@gmail.com
 
 <!---
